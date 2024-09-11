@@ -1,0 +1,9 @@
+Excel Visualization Report
+
+1. Compare Sales and Order.
+2. Who Purchased More Men or Women.
+3. Different order Status in 2022.
+4. List Top 10 Cities by Sales %
+5. Relation Between age and gender 
+6. Which Channel Contributing to maximum sales
+
